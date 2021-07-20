@@ -10,6 +10,10 @@
     @include boton($verde, inline-block)
 }
 
+.boton-amarillo{
+    @include boton($amarillo, inline-block)
+}
+
 .boton-rojo-block{
     @include boton($rojo, block);
     width: 100%

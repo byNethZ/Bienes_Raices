@@ -35,11 +35,15 @@ table.propiedades{
         td{
             text-align: center;
             color: $blanco;
+            padding-top: 1rem;
+            padding-bottom: 1rem;
         }
     }
 
     .imagen-tabla{
         max-width: 20rem;
+        display: block;
+        margin: auto;
     }
 }
 

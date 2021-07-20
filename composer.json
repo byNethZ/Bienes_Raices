@@ -1,0 +1,20 @@
+{
+    "name": "bynet/bienesraices_inicio",
+    "description": "Creando un proyecto POO",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Bynet\\BienesraicesInicio\\": "src/",
+            "App\\": "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "byNethZ",
+            "email": "bynethz@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.6"
+    }
+}
